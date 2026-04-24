@@ -1,4 +1,4 @@
-# 📊 Sales Performance Dashboard — Excel
+# 📊 Sales Performance Dashboard - Excel
 
 An interactive sales dashboard built in Microsoft Excel using
 real sales data across regions, products, and sales reps.
